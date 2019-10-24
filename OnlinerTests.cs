@@ -4,7 +4,7 @@ using OpenQA.Selenium;
 namespace OnlinerAutoBarTestProject
 {
     [TestFixture]
-    public class Class1
+    public class OnlinerTests
     {
         DriverCreator dr;
 
